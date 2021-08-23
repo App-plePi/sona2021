@@ -9,7 +9,7 @@
     android:background="@drawable/gradient_background"
     tools:context=".Main.MainActivity">
 
-    <TextView
+    <빈칸
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
@@ -32,7 +32,7 @@
         android:textColor="#ffffff"
         />
 
-    <ImageView
+    <빈칸
         android:id="@+id/weatherIcon"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -62,7 +62,7 @@
         >
 
         <LinearLayout
-            android:orientation="vertical"
+            android:orientation=빈칸
             android:layout_width="150dp"
             android:layout_height="140dp"
             android:gravity="center"
@@ -77,7 +77,7 @@
                 android:fontFamily="@font/notosanscjkkrbold"
                 android:includeFontPadding="false"
                 android:textColor="#ffffff"/>
-            <TextView
+            <빈칸
                 android:id="@+id/tempMax"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -94,7 +94,7 @@
             android:layout_height="match_parent"/>
 
         <LinearLayout
-            android:orientation="vertical"
+            android:orientation=빈칸
             android:layout_width="150dp"
             android:layout_height="140dp"
             android:gravity="center"
@@ -125,7 +125,7 @@
     </LinearLayout>
 
     <LinearLayout
-        android:orientation="horizontal"
+        android:orientation=빈칸
         android:layout_width="220dp"
         android:layout_height="40dp"
         android:layout_marginTop="25dp"
